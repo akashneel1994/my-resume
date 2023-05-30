@@ -1,0 +1,28 @@
+
+
+.img-thumbnail{
+    border-radius: 7.25rem !important;
+    padding: 0 !important;
+}
+
+.skill-item{
+    color: #00c964;
+}
+
+.skill-item-background{
+    background-color: #00ff7fcf; 
+    border-radius: 20px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.work-location{
+    font-size: small;
+    font-style: italic;
+    color: #6c757d;
+    font-weight: 700;
+}
+
+.font-size-custom{
+    font-size: 0.9rem;
+}
